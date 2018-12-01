@@ -1,0 +1,281 @@
+# depslib dependency file v1.0
+1468225287 source:c:\users\user\desktop\parser\block_test.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block_test.h"
+
+1468240154 c:\users\user\desktop\parser\block_test.h
+	<iostream>
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1469363013 source:c:\users\user\desktop\parser\initial_files.cpp
+	"initial_files.h"
+
+1469362983 c:\users\user\desktop\parser\initial_files.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+
+1471313458 source:c:\users\user\desktop\parser\input_def.cpp
+	"Input_DEF.h"
+
+1471313458 c:\users\user\desktop\parser\input_def.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+	"initial_files.h"
+
+1471313848 source:c:\users\user\desktop\parser\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	"initial_files.h"
+	"tech.h"
+	"v_file.h"
+	"Input_DEF.h"
+	"block.h"
+
+1469279130 c:\users\user\desktop\parser\tech.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1469279130 c:\users\user\desktop\parser\v_file.h
+	<stdio.h>
+	<string.h>
+
+1469279130 source:c:\users\user\desktop\parser\tech.cpp
+	"tech.h"
+
+1469279130 source:c:\users\user\desktop\parser\v_file.cpp
+	"v_file.h"
+
+1471313458 c:\users\user\desktop\parser\block.h
+	<iostream>
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1471156757 source:c:\users\user\desktop\parser\block.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+
+1469279130 source:c:\users\user\desktop\parser\parser\block.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+
+1469362983 c:\users\user\desktop\parser\parser\block.h
+	<iostream>
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1469363013 source:c:\users\user\desktop\parser\parser\initial_files.cpp
+	"initial_files.h"
+
+1469362983 c:\users\user\desktop\parser\parser\initial_files.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+
+1469363706 source:c:\users\user\desktop\parser\parser\input_def.cpp
+	"Input_DEF.h"
+
+1469363641 c:\users\user\desktop\parser\parser\input_def.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+	"initial_files.h"
+
+1469363796 source:c:\users\user\desktop\parser\parser\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	"initial_files.h"
+	"tech.h"
+	"v_file.h"
+	"Input_DEF.h"
+	"block.h"
+
+1469279130 c:\users\user\desktop\parser\parser\tech.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1469279130 c:\users\user\desktop\parser\parser\v_file.h
+	<stdio.h>
+	<string.h>
+
+1469279130 source:c:\users\user\desktop\parser\parser\tech.cpp
+	"tech.h"
+
+1469279130 source:c:\users\user\desktop\parser\parser\v_file.cpp
+	"v_file.h"
+
+1471156757 source:c:\users\cs\desktop\parser\block.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+
+1471313458 c:\users\cs\desktop\parser\block.h
+	<iostream>
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1469363013 source:c:\users\cs\desktop\parser\initial_files.cpp
+	"initial_files.h"
+
+1469362983 c:\users\cs\desktop\parser\initial_files.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+
+1471313458 source:c:\users\cs\desktop\parser\input_def.cpp
+	"Input_DEF.h"
+
+1471313458 c:\users\cs\desktop\parser\input_def.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+	"initial_files.h"
+
+1471312440 source:c:\users\cs\desktop\parser\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	"initial_files.h"
+	"tech.h"
+	"v_file.h"
+	"Input_DEF.h"
+	"block.h"
+
+1469279130 c:\users\cs\desktop\parser\tech.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1469279130 c:\users\cs\desktop\parser\v_file.h
+	<stdio.h>
+	<string.h>
+
+1469279130 source:c:\users\cs\desktop\parser\tech.cpp
+	"tech.h"
+
+1469279130 source:c:\users\cs\desktop\parser\v_file.cpp
+	"v_file.h"
+
+1471359543 source:c:\users\user\desktop\parser\function.cpp
+	"function.h"
+
+1471359629 c:\users\user\desktop\parser\function.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+	"block.h"
+	<cmath>
+

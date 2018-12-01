@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1467951019 source:c:\users\user\desktop\parser\main.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
