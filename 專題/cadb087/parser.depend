@@ -1,0 +1,1508 @@
+# depslib dependency file v1.0
+1472786321 source:c:\users\user\downloads\parser\parser\block.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+
+1472786321 c:\users\user\downloads\parser\parser\block.h
+	<iostream>
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1472786321 source:c:\users\user\downloads\parser\parser\initial_files.cpp
+	"initial_files.h"
+
+1472786321 c:\users\user\downloads\parser\parser\initial_files.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+
+1472803981 source:c:\users\user\downloads\parser\parser\input_def.cpp
+	"Input_DEF.h"
+
+1472786321 c:\users\user\downloads\parser\parser\input_def.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+	"initial_files.h"
+
+1472786321 source:c:\users\user\downloads\parser\parser\output.cpp
+	"initial_files.h"
+	"output.h"
+	<iomanip>
+
+1472786321 c:\users\user\downloads\parser\parser\output.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	<stdio.h>
+	<math.h>
+	"type.h"
+
+1472805740 c:\users\user\downloads\parser\parser\type.h
+	"block.h"
+	"Input_DEF.h"
+	<math.h>
+
+1472786321 source:c:\users\user\downloads\parser\parser\output_sp.cpp
+	"output_sp.h"
+	"Input_DEF.h"
+	<iomanip>
+	<math.h>
+
+1472786321 c:\users\user\downloads\parser\parser\output_sp.h
+	<iostream>
+	<fstream>
+	"block.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"tech.h"
+	"type.h"
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1472786321 c:\users\user\downloads\parser\parser\tech.h
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<vector>
+	<algorithm>
+
+1472786321 source:c:\users\user\downloads\parser\parser\tech.cpp
+	"tech.h"
+	<string.h>
+
+1472786321 source:c:\users\user\downloads\parser\parser\v_file.cpp
+	"v_file.h"
+
+1472786321 c:\users\user\downloads\parser\parser\v_file.h
+	<stdio.h>
+	<string.h>
+
+1472833737 source:c:\users\user\downloads\parser\parser\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"initial_files.h"
+	"tech.h"
+	"v_file.h"
+	"Input_DEF.h"
+	"block.h"
+	"header.h"
+	<algorithm>
+
+1472833789 c:\users\user\downloads\parser\parser\header.h
+	"tech.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"output.h"
+	"output_sp.h"
+	"type.h"
+	<queue>
+	<limits>
+
+1472786321 source:c:\users\chiachunluo\downloads\parser\block.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+
+1472786321 c:\users\chiachunluo\downloads\parser\block.h
+	<iostream>
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1472786321 source:c:\users\chiachunluo\downloads\parser\initial_files.cpp
+	"initial_files.h"
+
+1472786321 c:\users\chiachunluo\downloads\parser\initial_files.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+
+1472803981 source:c:\users\chiachunluo\downloads\parser\input_def.cpp
+	"Input_DEF.h"
+
+1472786321 c:\users\chiachunluo\downloads\parser\input_def.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+	"initial_files.h"
+
+1472841636 source:c:\users\chiachunluo\downloads\parser\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"initial_files.h"
+	"tech.h"
+	"v_file.h"
+	"Input_DEF.h"
+	"block.h"
+	"header.h"
+	<algorithm>
+
+1472786321 c:\users\chiachunluo\downloads\parser\tech.h
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<vector>
+	<algorithm>
+
+1472786321 c:\users\chiachunluo\downloads\parser\v_file.h
+	<stdio.h>
+	<string.h>
+
+1472841943 c:\users\chiachunluo\downloads\parser\header.h
+	"tech.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"output.h"
+	"output_sp.h"
+	"type.h"
+	<queue>
+	<limits>
+
+1472786321 c:\users\chiachunluo\downloads\parser\output.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	<stdio.h>
+	<math.h>
+	"type.h"
+
+1472805740 c:\users\chiachunluo\downloads\parser\type.h
+	"block.h"
+	"Input_DEF.h"
+	<math.h>
+
+1472786321 c:\users\chiachunluo\downloads\parser\output_sp.h
+	<iostream>
+	<fstream>
+	"block.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"tech.h"
+	"type.h"
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1472786321 source:c:\users\chiachunluo\downloads\parser\output.cpp
+	"initial_files.h"
+	"output.h"
+	<iomanip>
+
+1472786321 source:c:\users\chiachunluo\downloads\parser\output_sp.cpp
+	"output_sp.h"
+	"Input_DEF.h"
+	<iomanip>
+	<math.h>
+
+1472786321 source:c:\users\chiachunluo\downloads\parser\tech.cpp
+	"tech.h"
+	<string.h>
+
+1472786321 source:c:\users\chiachunluo\downloads\parser\v_file.cpp
+	"v_file.h"
+
+1472897653 source:c:\users\user\downloads\parser\block.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+
+1472897656 c:\users\user\downloads\parser\block.h
+	<iostream>
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1472897656 source:c:\users\user\downloads\parser\initial_files.cpp
+	"initial_files.h"
+
+1472897656 c:\users\user\downloads\parser\initial_files.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+
+1472985429 source:c:\users\user\downloads\parser\input_def.cpp
+	"Input_DEF.h"
+
+1472897656 c:\users\user\downloads\parser\input_def.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+	"initial_files.h"
+
+1472985108 source:c:\users\user\downloads\parser\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"initial_files.h"
+	"tech.h"
+	"v_file.h"
+	"Input_DEF.h"
+	"block.h"
+	"header.h"
+	<algorithm>
+
+1472897656 c:\users\user\downloads\parser\tech.h
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<vector>
+	<algorithm>
+
+1472897656 c:\users\user\downloads\parser\v_file.h
+	<stdio.h>
+	<string.h>
+
+1472963803 c:\users\user\downloads\parser\header.h
+	"tech.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"output.h"
+	"output_sp.h"
+	"type.h"
+	<queue>
+	<limits>
+
+1472897656 c:\users\user\downloads\parser\output.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	<stdio.h>
+	<math.h>
+	"type.h"
+
+1473048467 c:\users\user\downloads\parser\type.h
+	"block.h"
+	"Input_DEF.h"
+	<math.h>
+
+1472897656 c:\users\user\downloads\parser\output_sp.h
+	<iostream>
+	<fstream>
+	"block.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"tech.h"
+	"type.h"
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1472897656 source:c:\users\user\downloads\parser\output.cpp
+	"initial_files.h"
+	"output.h"
+	<iomanip>
+
+1472897656 source:c:\users\user\downloads\parser\output_sp.cpp
+	"output_sp.h"
+	"Input_DEF.h"
+	<iomanip>
+	<math.h>
+
+1472897656 source:c:\users\user\downloads\parser\tech.cpp
+	"tech.h"
+	<string.h>
+
+1472897656 source:c:\users\user\downloads\parser\v_file.cpp
+	"v_file.h"
+
+1472897653 source:c:\users\user\desktop\parser\block.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+
+1472897656 c:\users\user\desktop\parser\block.h
+	<iostream>
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1472897656 source:c:\users\user\desktop\parser\initial_files.cpp
+	"initial_files.h"
+
+1472897656 c:\users\user\desktop\parser\initial_files.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+
+1472897656 source:c:\users\user\desktop\parser\input_def.cpp
+	"Input_DEF.h"
+
+1472897656 c:\users\user\desktop\parser\input_def.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+	"initial_files.h"
+
+1472910576 source:c:\users\user\desktop\parser\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"initial_files.h"
+	"tech.h"
+	"v_file.h"
+	"Input_DEF.h"
+	"block.h"
+	"header.h"
+	<algorithm>
+
+1472897656 c:\users\user\desktop\parser\tech.h
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<vector>
+	<algorithm>
+
+1472897656 c:\users\user\desktop\parser\v_file.h
+	<stdio.h>
+	<string.h>
+
+1472910813 c:\users\user\desktop\parser\header.h
+	"tech.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"output.h"
+	"output_sp.h"
+	"type.h"
+	<queue>
+	<limits>
+
+1472897656 c:\users\user\desktop\parser\output.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	<stdio.h>
+	<math.h>
+	"type.h"
+
+1472897656 c:\users\user\desktop\parser\type.h
+	"block.h"
+	"Input_DEF.h"
+	<math.h>
+
+1472897656 c:\users\user\desktop\parser\output_sp.h
+	<iostream>
+	<fstream>
+	"block.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"tech.h"
+	"type.h"
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1472897656 source:c:\users\user\desktop\parser\output.cpp
+	"initial_files.h"
+	"output.h"
+	<iomanip>
+
+1472897656 source:c:\users\user\desktop\parser\output_sp.cpp
+	"output_sp.h"
+	"Input_DEF.h"
+	<iomanip>
+	<math.h>
+
+1472897656 source:c:\users\user\desktop\parser\tech.cpp
+	"tech.h"
+	<string.h>
+
+1472897656 source:c:\users\user\desktop\parser\v_file.cpp
+	"v_file.h"
+
+1472897653 source:c:\users\nthucs\downloads\parser\block.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+
+1472897656 c:\users\nthucs\downloads\parser\block.h
+	<iostream>
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1472897656 source:c:\users\nthucs\downloads\parser\initial_files.cpp
+	"initial_files.h"
+
+1472897656 c:\users\nthucs\downloads\parser\initial_files.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+
+1472985429 source:c:\users\nthucs\downloads\parser\input_def.cpp
+	"Input_DEF.h"
+
+1472897656 c:\users\nthucs\downloads\parser\input_def.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+	"initial_files.h"
+
+1472897656 source:c:\users\nthucs\downloads\parser\output.cpp
+	"initial_files.h"
+	"output.h"
+	<iomanip>
+
+1472897656 c:\users\nthucs\downloads\parser\output.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	<stdio.h>
+	<math.h>
+	"type.h"
+
+1473056425 c:\users\nthucs\downloads\parser\type.h
+	"block.h"
+	"Input_DEF.h"
+	<math.h>
+
+1472897656 source:c:\users\nthucs\downloads\parser\output_sp.cpp
+	"output_sp.h"
+	"Input_DEF.h"
+	<iomanip>
+	<math.h>
+
+1472897656 c:\users\nthucs\downloads\parser\output_sp.h
+	<iostream>
+	<fstream>
+	"block.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"tech.h"
+	"type.h"
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1472897656 c:\users\nthucs\downloads\parser\tech.h
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<vector>
+	<algorithm>
+
+1472897656 source:c:\users\nthucs\downloads\parser\tech.cpp
+	"tech.h"
+	<string.h>
+
+1472897656 source:c:\users\nthucs\downloads\parser\v_file.cpp
+	"v_file.h"
+
+1472897656 c:\users\nthucs\downloads\parser\v_file.h
+	<stdio.h>
+	<string.h>
+
+1472897653 source:c:\users\nthucs\desktop\cadb087\block.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+
+1472897656 c:\users\nthucs\desktop\cadb087\block.h
+	<iostream>
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1472897656 source:c:\users\nthucs\desktop\cadb087\initial_files.cpp
+	"initial_files.h"
+
+1472897656 c:\users\nthucs\desktop\cadb087\initial_files.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+
+1472985429 source:c:\users\nthucs\desktop\cadb087\input_def.cpp
+	"Input_DEF.h"
+
+1472897656 c:\users\nthucs\desktop\cadb087\input_def.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+	"initial_files.h"
+
+1473056676 source:c:\users\nthucs\desktop\cadb087\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"initial_files.h"
+	"tech.h"
+	"v_file.h"
+	"Input_DEF.h"
+	"block.h"
+	"header.h"
+	<iomanip>
+	<algorithm>
+
+1472897656 c:\users\nthucs\desktop\cadb087\tech.h
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<vector>
+	<algorithm>
+
+1472897656 c:\users\nthucs\desktop\cadb087\v_file.h
+	<stdio.h>
+	<string.h>
+
+1473044339 c:\users\nthucs\desktop\cadb087\header.h
+	"tech.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"output.h"
+	"output_sp.h"
+	"type.h"
+	<queue>
+	<limits>
+
+1472897656 c:\users\nthucs\desktop\cadb087\output.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	<stdio.h>
+	<math.h>
+	"type.h"
+
+1473056425 c:\users\nthucs\desktop\cadb087\type.h
+	"block.h"
+	"Input_DEF.h"
+	<math.h>
+
+1472897656 c:\users\nthucs\desktop\cadb087\output_sp.h
+	<iostream>
+	<fstream>
+	"block.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"tech.h"
+	"type.h"
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1472897656 source:c:\users\nthucs\desktop\cadb087\output.cpp
+	"initial_files.h"
+	"output.h"
+	<iomanip>
+
+1472897656 source:c:\users\nthucs\desktop\cadb087\output_sp.cpp
+	"output_sp.h"
+	"Input_DEF.h"
+	<iomanip>
+	<math.h>
+
+1472897656 source:c:\users\nthucs\desktop\cadb087\tech.cpp
+	"tech.h"
+	<string.h>
+
+1472897656 source:c:\users\nthucs\desktop\cadb087\v_file.cpp
+	"v_file.h"
+
+1473158185 source:c:\users\user\desktop\cadb087\block.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+
+1473158185 c:\users\user\desktop\cadb087\block.h
+	<iostream>
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1473158185 source:c:\users\user\desktop\cadb087\initial_files.cpp
+	"initial_files.h"
+
+1473158185 c:\users\user\desktop\cadb087\initial_files.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+
+1473158185 source:c:\users\user\desktop\cadb087\input_def.cpp
+	"Input_DEF.h"
+
+1473158186 c:\users\user\desktop\cadb087\input_def.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+	"initial_files.h"
+
+1473158186 source:c:\users\user\desktop\cadb087\output.cpp
+	"initial_files.h"
+	"output.h"
+	<iomanip>
+
+1473158186 c:\users\user\desktop\cadb087\output.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	<stdio.h>
+	<math.h>
+	"type.h"
+
+1473177085 c:\users\user\desktop\cadb087\type.h
+	"block.h"
+	"Input_DEF.h"
+	<math.h>
+
+1473158186 source:c:\users\user\desktop\cadb087\output_sp.cpp
+	"output_sp.h"
+	"Input_DEF.h"
+	<iomanip>
+	<math.h>
+
+1473158186 c:\users\user\desktop\cadb087\output_sp.h
+	<iostream>
+	<fstream>
+	"block.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"tech.h"
+	"type.h"
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1473158186 c:\users\user\desktop\cadb087\tech.h
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<vector>
+	<algorithm>
+
+1473158186 source:c:\users\user\desktop\cadb087\tech.cpp
+	"tech.h"
+	<string.h>
+
+1473158186 source:c:\users\user\desktop\cadb087\v_file.cpp
+	"v_file.h"
+
+1473158186 c:\users\user\desktop\cadb087\v_file.h
+	<stdio.h>
+	<string.h>
+
+1473063552 source:c:\users\chiachunluo\downloads\cadb087\block.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+
+1473063552 c:\users\chiachunluo\downloads\cadb087\block.h
+	<iostream>
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1473063553 source:c:\users\chiachunluo\downloads\cadb087\initial_files.cpp
+	"initial_files.h"
+
+1473063553 c:\users\chiachunluo\downloads\cadb087\initial_files.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+
+1473063553 source:c:\users\chiachunluo\downloads\cadb087\input_def.cpp
+	"Input_DEF.h"
+
+1473063553 c:\users\chiachunluo\downloads\cadb087\input_def.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+	"initial_files.h"
+
+1473063553 source:c:\users\chiachunluo\downloads\cadb087\output.cpp
+	"initial_files.h"
+	"output.h"
+	<iomanip>
+
+1473063553 c:\users\chiachunluo\downloads\cadb087\output.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	<stdio.h>
+	<math.h>
+	"type.h"
+
+1473092469 c:\users\chiachunluo\downloads\cadb087\type.h
+	"block.h"
+	"Input_DEF.h"
+	<math.h>
+
+1473063553 source:c:\users\chiachunluo\downloads\cadb087\output_sp.cpp
+	"output_sp.h"
+	"Input_DEF.h"
+	<iomanip>
+	<math.h>
+
+1473063553 c:\users\chiachunluo\downloads\cadb087\output_sp.h
+	<iostream>
+	<fstream>
+	"block.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"tech.h"
+	"type.h"
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1473063553 c:\users\chiachunluo\downloads\cadb087\tech.h
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<vector>
+	<algorithm>
+
+1473063553 source:c:\users\chiachunluo\downloads\cadb087\tech.cpp
+	"tech.h"
+	<string.h>
+
+1473063553 source:c:\users\chiachunluo\downloads\cadb087\v_file.cpp
+	"v_file.h"
+
+1473063553 c:\users\chiachunluo\downloads\cadb087\v_file.h
+	<stdio.h>
+	<string.h>
+
+1473094009 source:c:\users\chiachunluo\downloads\cadb087\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"initial_files.h"
+	"tech.h"
+	"v_file.h"
+	"Input_DEF.h"
+	"block.h"
+	"header.h"
+	<iomanip>
+	<algorithm>
+
+1473063553 c:\users\chiachunluo\downloads\cadb087\header.h
+	"tech.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"output.h"
+	"output_sp.h"
+	"type.h"
+	<queue>
+	<limits>
+
+1473135759 source:c:\users\user\desktop\cadb087\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"initial_files.h"
+	"tech.h"
+	"v_file.h"
+	"Input_DEF.h"
+	"block.h"
+	"header.h"
+	<iomanip>
+	<algorithm>
+
+1473135759 c:\users\user\desktop\cadb087\header.h
+	"tech.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"output.h"
+	"output_sp.h"
+	"type.h"
+	<queue>
+	<limits>
+
+1473135759 source:c:\users\user\downloads\cadb087\block.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+
+1473135759 c:\users\user\downloads\cadb087\block.h
+	<iostream>
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1473135759 source:c:\users\user\downloads\cadb087\initial_files.cpp
+	"initial_files.h"
+
+1473135759 c:\users\user\downloads\cadb087\initial_files.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+
+1473135759 source:c:\users\user\downloads\cadb087\input_def.cpp
+	"Input_DEF.h"
+
+1473135759 c:\users\user\downloads\cadb087\input_def.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+	"initial_files.h"
+
+1473135759 source:c:\users\user\downloads\cadb087\output.cpp
+	"initial_files.h"
+	"output.h"
+	<iomanip>
+
+1473135759 c:\users\user\downloads\cadb087\output.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	<stdio.h>
+	<math.h>
+	"type.h"
+
+1473135759 c:\users\user\downloads\cadb087\type.h
+	"block.h"
+	"Input_DEF.h"
+	<math.h>
+
+1473135759 source:c:\users\user\downloads\cadb087\output_sp.cpp
+	"output_sp.h"
+	"Input_DEF.h"
+	<iomanip>
+	<math.h>
+
+1473135759 c:\users\user\downloads\cadb087\output_sp.h
+	<iostream>
+	<fstream>
+	"block.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"tech.h"
+	"type.h"
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1473135759 c:\users\user\downloads\cadb087\tech.h
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<vector>
+	<algorithm>
+
+1473135759 source:c:\users\user\downloads\cadb087\tech.cpp
+	"tech.h"
+	<string.h>
+
+1473135759 source:c:\users\user\downloads\cadb087\v_file.cpp
+	"v_file.h"
+
+1473135759 c:\users\user\downloads\cadb087\v_file.h
+	<stdio.h>
+	<string.h>
+
+1473151368 source:c:\users\user\downloads\cadb087\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"initial_files.h"
+	"tech.h"
+	"v_file.h"
+	"Input_DEF.h"
+	"block.h"
+	"header.h"
+	<iomanip>
+	<algorithm>
+
+1473135759 c:\users\user\downloads\cadb087\header.h
+	"tech.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"output.h"
+	"output_sp.h"
+	"type.h"
+	<queue>
+	<limits>
+
+1473194497 source:c:\users\chiachunluo\downloads\cadb087\cadb087\block.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+
+1473194155 c:\users\chiachunluo\downloads\cadb087\cadb087\block.h
+	<iostream>
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1473194619 source:c:\users\chiachunluo\downloads\cadb087\cadb087\initial_files.cpp
+	"initial_files.h"
+
+1473182855 c:\users\chiachunluo\downloads\cadb087\cadb087\initial_files.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+
+1473194931 source:c:\users\chiachunluo\downloads\cadb087\cadb087\input_def.cpp
+	"Input_DEF.h"
+
+1473194155 c:\users\chiachunluo\downloads\cadb087\cadb087\input_def.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+	"initial_files.h"
+
+1473226203 source:c:\users\chiachunluo\downloads\cadb087\cadb087\output.cpp
+	"initial_files.h"
+	"output.h"
+	<iomanip>
+
+1473226228 c:\users\chiachunluo\downloads\cadb087\cadb087\output.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	<stdio.h>
+	<math.h>
+	"type.h"
+
+1473194155 c:\users\chiachunluo\downloads\cadb087\cadb087\type.h
+	"block.h"
+	"Input_DEF.h"
+	<math.h>
+
+1473182855 source:c:\users\chiachunluo\downloads\cadb087\cadb087\output_sp.cpp
+	"output_sp.h"
+	"Input_DEF.h"
+	<iomanip>
+	<math.h>
+
+1473182855 c:\users\chiachunluo\downloads\cadb087\cadb087\output_sp.h
+	<iostream>
+	<fstream>
+	"block.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"tech.h"
+	"type.h"
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1473182856 c:\users\chiachunluo\downloads\cadb087\cadb087\tech.h
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<vector>
+	<algorithm>
+
+1473194877 source:c:\users\chiachunluo\downloads\cadb087\cadb087\tech.cpp
+	"tech.h"
+	<string.h>
+
+1473194836 source:c:\users\chiachunluo\downloads\cadb087\cadb087\v_file.cpp
+	"v_file.h"
+
+1473182856 c:\users\chiachunluo\downloads\cadb087\cadb087\v_file.h
+	<stdio.h>
+	<string.h>
+
+1473226242 source:c:\users\chiachunluo\downloads\cadb087\cadb087\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"initial_files.h"
+	"tech.h"
+	"v_file.h"
+	"Input_DEF.h"
+	"block.h"
+	"header.h"
+	<iomanip>
+	<algorithm>
+
+1473195486 c:\users\chiachunluo\downloads\cadb087\cadb087\header.h
+	"tech.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"output.h"
+	"type.h"
+	<queue>
+	<limits>
+
+1473182854 source:c:\users\linx\desktop\cadb087\cadb087\block.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+
+1473182854 c:\users\linx\desktop\cadb087\cadb087\block.h
+	<iostream>
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1473182855 source:c:\users\linx\desktop\cadb087\cadb087\initial_files.cpp
+	"initial_files.h"
+
+1473182855 c:\users\linx\desktop\cadb087\cadb087\initial_files.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstring>
+	<cstdlib>
+	<stdio.h>
+	<stdlib.h>
+
+1473182855 source:c:\users\linx\desktop\cadb087\cadb087\input_def.cpp
+	"Input_DEF.h"
+
+1473182855 c:\users\linx\desktop\cadb087\cadb087\input_def.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	"block.h"
+	"initial_files.h"
+
+1473182855 source:c:\users\linx\desktop\cadb087\cadb087\output.cpp
+	"initial_files.h"
+	"output.h"
+	<iomanip>
+
+1473182855 c:\users\linx\desktop\cadb087\cadb087\output.h
+	<iostream>
+	<fstream>
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+	<stdio.h>
+	<math.h>
+	"type.h"
+
+1473185329 c:\users\linx\desktop\cadb087\cadb087\type.h
+	"block.h"
+	"Input_DEF.h"
+	<math.h>
+
+1473182855 source:c:\users\linx\desktop\cadb087\cadb087\output_sp.cpp
+	"output_sp.h"
+	"Input_DEF.h"
+	<iomanip>
+	<math.h>
+
+1473182855 c:\users\linx\desktop\cadb087\cadb087\output_sp.h
+	<iostream>
+	<fstream>
+	"block.h"
+	"Input_DEF.h"
+	"initial_files.h"
+	"tech.h"
+	"type.h"
+	<istream>
+	<vector>
+	<iterator>
+	<sstream>
+	<string.h>
+	<cstdlib>
+
+1473182856 c:\users\linx\desktop\cadb087\cadb087\tech.h
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<vector>
+	<algorithm>
+
+1473182856 source:c:\users\linx\desktop\cadb087\cadb087\tech.cpp
+	"tech.h"
+	<string.h>
+
+1473182856 source:c:\users\linx\desktop\cadb087\cadb087\v_file.cpp
+	"v_file.h"
+
+1473182856 c:\users\linx\desktop\cadb087\cadb087\v_file.h
+	<stdio.h>
+	<string.h>
+

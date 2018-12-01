@@ -1,0 +1,11 @@
+# The metal usage report
+M5 512
+M6 56336
+Total 56950.4
+
+# The IR drop of each power pin (%)
+B1/VDD_A 2.33
+B1/VDD_B 1.89
+B2/VDD_A 3.36
+B3/VDD_A 3.94
+
